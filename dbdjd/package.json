@@ -1,0 +1,28 @@
+{
+  "name": "dbdjd",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ts": "tsc -w",
+    "build": "tsc -w"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "mongodb": "^3.3.2",
+    "puppeteer": "^1.19.0"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.3.1",
+    "@types/puppeteer": "^1.19.1",
+    "@typescript-eslint/eslint-plugin": "^2.1.0",
+    "@typescript-eslint/parser": "^2.1.0",
+    "eslint": "^6.3.0",
+    "eslint-config-prettier": "^6.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.2"
+  }
+}
